@@ -2,6 +2,16 @@
 
 Tennis Shop is a simple e-commerce application built using React that allows users to add products to their shopping cart, adjust the quantity of products in the cart, and complete the purchase process. The application uses a JSON server as a mock API to simulate server-side functionality.
 
+### Dashboard
+
+![Captura de tela de 2023-04-04 12-26-20](https://user-images.githubusercontent.com/15384670/229848342-6643fc64-dd5b-484d-acc7-c99458773c4e.png)
+
+###Cart
+
+![Captura de tela de 2023-04-04 12-26-28](https://user-images.githubusercontent.com/15384670/229848421-46cedb59-d0f4-4455-9233-af1c1532ec80.png)
+
+
+
 ## Dependencies
 
 The following packages are used in this project:
