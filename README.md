@@ -6,7 +6,7 @@ Tennis Shop is a simple e-commerce application built using React that allows use
 
 ![Captura de tela de 2023-04-04 12-26-20](https://user-images.githubusercontent.com/15384670/229848342-6643fc64-dd5b-484d-acc7-c99458773c4e.png)
 
-### Cart
+### Cart-page
 
 ![Captura de tela de 2023-04-04 12-26-28](https://user-images.githubusercontent.com/15384670/229848421-46cedb59-d0f4-4455-9233-af1c1532ec80.png)
 
